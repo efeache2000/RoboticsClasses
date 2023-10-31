@@ -1,0 +1,16 @@
+Clase 04 - Utilizacion del componente RGB
+Para utilizar el componente RGB debemos saber el significado de las siglas
+    R - Red - Rojo
+    G - Green - Verde
+    B - Blue - Azul
+Este componente tiene un LED el cual puede intercambiar colores, los estados son:
+    Apagado
+    Color Rojo
+    Color Verde
+    Color Azul
+    Color Rojo y Verde
+    Color Rojo y Azul
+    Color Verde y Azul
+    Color Rojo, Verde y Azul.
+1. Construcción del circuito
+2. Construcción del código en MicroPython
