@@ -3,8 +3,8 @@ En este apartado vamos a aprender Robotica con lenguaje MicroPython utilizando u
 
 Es importante que las clases estarán divididas en:
 
-  a) Componente(s) a utilizar en el ejercicio / proyecto 
-  b) Código a escribir en MicroPython
-  c) Variantes al ejercicio/proyecto original
+  a) Componente(s) a utilizar en el ejercicio / proyecto   
+  b) Código a escribir en MicroPython  
+  c) Variantes al ejercicio/proyecto original  
 
   
